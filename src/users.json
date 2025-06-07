@@ -1,0 +1,235 @@
+[
+  {
+    "name": "John Smith",
+    "number": "09121123456",
+    "email": "john.smith@example.com",
+    "password": "1234",
+    "cards": [
+      {
+        "name": "John Smith",
+        "number": "5446201234567890",
+        "cvv": "1234",
+        "seccode": "1234",
+        "expiry": "12/28",
+        "type": "American Express",
+        "balance": 3000
+      },
+      {
+        "name": "John Smith",
+        "number": "5446201234567890",
+        "cvv": "456",
+        "seccode": "456",
+        "expiry": "11/27",
+        "type": "MasterCard",
+        "balance": 2500
+      },
+      {
+        "name": "John Smith",
+        "number": "6011123456789012",
+        "cvv": "789",
+        "seccode": "789",
+        "expiry": "10/29",
+        "type": "Discover",
+        "balance": "3200"
+      },
+      {
+        "name": "John Smith",
+        "number": "5874123257889012",
+        "cvv": "321",
+        "seccode": "321",
+        "expiry": "09/26",
+        "type": "Visa",
+        "balance": 2800
+      }
+    ]
+  },
+  {
+    "name": "Emily Johnson",
+    "number": "09351234567",
+    "email": "emily.johnson@example.com",
+    "password": "Em!ly2025#",
+    "cards": [
+      {
+        "name": "Emily Johnson",
+        "number": "340000123456789",
+        "cvv": "2345",
+        "seccode": "2345",
+        "expiry": "08/28",
+        "type": "American Express",
+        "balance": 3500
+      }
+    ]
+  },
+  {
+    "name": "Michael Brown",
+    "number": "09191234567",
+    "email": "michael.brown@example.com",
+    "password": "Mb$2025!x",
+    "cards": [
+      {
+        "name": "Michael Brown",
+        "number": "6011123456781234",
+        "cvv": "654",
+        "seccode": "654",
+        "expiry": "07/27",
+        "type": "Discover",
+        "balance": 1800
+      },
+      {
+        "name": "Michael Brown",
+        "number": "3530111234567890",
+        "cvv": "987",
+        "seccode": "987",
+        "expiry": "06/29",
+        "type": "JCB",
+        "balance": 2200
+      }
+    ]
+  },
+  {
+    "name": "Olivia Davis",
+    "number": "09011234567",
+    "email": "olivia.davis@example.com",
+    "password": "Ol!via2025#",
+    "cards": [
+      {
+        "name": "Olivia Davis",
+        "number": "5105101234567890",
+        "cvv": "147",
+        "seccode": "147",
+        "expiry": "05/28",
+        "type": "MasterCard",
+        "balance": 2000
+      }
+    ]
+  },
+  {
+    "name": "James Wilson",
+    "number": "09361234567",
+    "email": "james.wilson@example.com",
+    "password": "Jw#2025!x",
+    "cards": [
+      {
+        "name": "James Wilson",
+        "number": "4111111234567890",
+        "cvv": "258",
+        "seccode": "258",
+        "expiry": "04/27",
+        "type": "Visa",
+        "balance": 1700
+      },
+      {
+        "name": "James Wilson",
+        "number": "6011123456789012",
+        "cvv": "369",
+        "seccode": "369",
+        "expiry": "03/29",
+        "type": "Discover",
+        "balance": 2100
+      }
+    ]
+  },
+  {
+    "name": "Sophia Martinez",
+    "number": "09131234567",
+    "email": "sophia.martinez@example.com",
+    "password": "Sm$2025!x",
+    "cards": [
+      {
+        "name": "Sophia Martinez",
+        "number": "378282123456789",
+        "cvv": "1597",
+        "seccode": "1597",
+        "expiry": "02/28",
+        "type": "American Express",
+        "balance": 3500
+      }
+    ]
+  },
+  {
+    "name": "David Garcia",
+    "number": "09371234567",
+    "email": "david.garcia@example.com",
+    "password": "Dg#2025!x",
+    "cards": [
+      {
+        "name": "David Garcia",
+        "number": "5105101234567890",
+        "cvv": "753",
+        "seccode": "753",
+        "expiry": "01/28",
+        "type": "MasterCard",
+        "balance": 1600
+      },
+      {
+        "name": "David Garcia",
+        "number": "6011123456789012",
+        "cvv": "852",
+        "seccode": "852",
+        "expiry": "12/29",
+        "type": "Discover",
+        "balance": 1900
+      }
+    ]
+  },
+  {
+    "name": "Ava Rodriguez",
+    "number": "09181234567",
+    "email": "ava.rodriguez@example.com",
+    "password": "Ar!2025#",
+    "cards": [
+      {
+        "name": "Ava Rodriguez",
+        "number": "4111111234567890",
+        "cvv": "951",
+        "seccode": "951",
+        "expiry": "11/27",
+        "type": "Visa",
+        "balance": 1800
+      }
+    ]
+  },
+  {
+    "name": "Benjamin Lee",
+    "number": "09381234567",
+    "email": "benjamin.lee@example.com",
+    "password": "Bl$2025!x",
+    "cards": [
+      {
+        "name": "Benjamin Lee",
+        "number": "340000123456789",
+        "cvv": "3579",
+        "seccode": "3579",
+        "expiry": "10/28",
+        "type": "American Express",
+        "balance": 4000
+      }
+    ]
+  },
+  {
+    "name": "Mia Walker",
+    "number": "09141234567",
+    "email": "mia.walker@example.com",
+    "password": "Mw#2025!x",
+    "cards": [
+      {
+        "name": "Mia Walker",
+        "number": "6011123456789012",
+        "cvv": "753",
+        "seccode": "753",
+        "expiry": "09/29",
+        "type": "Discover",
+        "balance": 2300
+      },
+      {
+        "name": "Mia Walker",
+        "number": "4111111234567890",
+        "cvv": "159",
+        "seccode": "159",
+        "expiry": "08/27",
+        "type": "Visa",
+        "balance": 2700
+      }
+    ]
+  }
+]
